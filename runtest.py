@@ -1,4 +1,4 @@
-from pythonpackagesample import datareader_doc
+from ie_mbdbl2018_dmburu import datareader_doc
 
 print(help(datareader_doc))
 
