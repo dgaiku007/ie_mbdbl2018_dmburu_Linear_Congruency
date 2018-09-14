@@ -1,12 +1,12 @@
 from setuptools import setup
 
-setup(name='ie_mbdbl2018_dmburu',
+setup(name='ie_mbdbl2018_dmburu-Linear_Congruency',
       version='0.1',  # Development release
-      description='Python Packaging Starting Kit - Simple Structure to creater your own package - for training purposes!',
-      url='https://github.com/dgaiku007/ie_mbdbl2018_dmburu',
+      description='Functions to return the Linear Congruency & the random number 1 or 0 generated through it!!',
+      url='https://github.com/dgaiku007/ie_mbdbl2018_dmburu-Linear_Congruency',
       author='DAN GAIKU MBURU',
       author_email='dan.mburu@student.ie.edu',
       license='MIT',
-          packages=['ie_mbdbl2018_dmburu'],
+          packages=['Linear_Congruency'],
       zip_safe=False)
 	  
