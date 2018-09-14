@@ -1,6 +1,6 @@
 #--------------------------------Imported Functions--------------------------------------#
-from ie_mbdbl2018_dmburu-Linear_Congruency import zero_or_one
-from ie_mbdbl2018_dmburu-Linear_Congruency import linear_congruency
+from ie_mbdbl2018_dmburu_Linear_Congruency import zero_or_one
+from ie_mbdbl2018_dmburu_Linear_Congruency import linear_congruency
 
 #--------------------------------Seed Data--------------------------------------#
 import random
