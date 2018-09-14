@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='ie_mbdbl2018_dmburu_Linear_Congruency',
-      version='0.1',  # Development release
+      version='0.2',  # Development release
       description='Functions to return the Linear Congruency & the random number 1 or 0 generated through it!!',
       url='https://github.com/dgaiku007/ie_mbdbl2018_dmburu_Linear_Congruency',
       author='DAN GAIKU MBURU',
