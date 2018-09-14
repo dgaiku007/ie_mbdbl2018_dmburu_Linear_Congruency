@@ -4,7 +4,7 @@ Created on Tue Sep 11 13:46:39 2018
 
 @author: mburud
 """
-    """ Functions to return the Linear Congruency & the random number 1 or 0 generated through it!! """
+""" Functions to return the Linear Congruency & the random number 1 or 0 generated through it!! """
 	
 #--------------------------------MY FUNCTIONS for the IPE--------------------------------------#
 def linear_congruency(x):   #returns the value obtained from linear congruency caclulation
