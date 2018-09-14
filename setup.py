@@ -7,6 +7,6 @@ setup(name='ie_mbdbl2018_dmburu-Linear_Congruency',
       author='DAN GAIKU MBURU',
       author_email='dan.mburu@student.ie.edu',
       license='MIT',
-          packages=['Linear_Congruency'],
+          packages=['ie_mbdbl2018_dmburu-Linear_Congruency'],
       zip_safe=False)
 	  
